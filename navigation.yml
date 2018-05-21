@@ -1,0 +1,15 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "Meetups"
+    url: /meetups/
+  - title: "Developers"
+    url: /developers/
+  - title: "Companies"
+    url: /companies/
+  - title: "Organizations"
+    url: /organizations/
+  - title: "Coworking"
+    url: /coworking/
+  - title: "Conferences"
+    url: /conferences/
