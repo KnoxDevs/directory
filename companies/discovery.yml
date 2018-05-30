@@ -1,0 +1,11 @@
+name: Discovery #Name of organization
+image: https://corporate.discovery.com/wp-content/themes/discovery-corporate/images/discovery-logo-explore-flat-2018.png #Image url you want displayed
+online: #Online links
+    website: https://corporate.discovery.com/
+    twitter: discoveryinctv
+location: # Company Location
+    name: 
+    gmap:  # google map short url
+date_updated: 2018-04-18 #date you updated this information (YYYY-MM-DD), only Month, Year will be shown.
+blurb: >
+    Discovery Inc. is a global leader in real life entertainment, reaching three billion cumulative subscribers around the world. 
