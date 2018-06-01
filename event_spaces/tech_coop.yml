@@ -1,0 +1,11 @@
+name: Technology Cooperative #Name of organization
+image: http://techco.org/wp-content/uploads/2011/04/TC-logo-150x150.png #Image url you want displayed
+online: #Online links
+    website: http://techco.org/co-working-space/
+    twitter: TechCoop 
+location: # Company Location
+    name: 
+    gmap:  # google map short url
+date_updated: 2018-04-18 #date you updated this information (YYYY-MM-DD), only Month, Year will be shown.
+blurb: >
+    The Technology Cooperative was founded to create a technology-focused community that will provide computer-related technology access and awareness. Contact us via the website for more information about how we may be able to provide space for your event.

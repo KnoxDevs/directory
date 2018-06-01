@@ -5,13 +5,5 @@ main:
     url: /groups/
   - title: "Local Blogs"
     url: /bloggers/
-  - title: "Companies"
-    url: /companies/
-  - title: "Organizations"
-    url: /organizations/
-  - title: "Coworking"
-    url: /coworking/
-  - title: "Conferences"
-    url: /conferences/
-  - title: "Resources"
+  - title: "Local Resources"
     url: /resources/
