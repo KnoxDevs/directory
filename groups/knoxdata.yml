@@ -1,5 +1,5 @@
 name: KnoxData #Name of organization
-image: assets/images/groups/knoxdata.svg
+image: /assets/images/groups/knoxdata.svg
 online: #Online links
     website: https://knoxdata.org
     github: knoxdata

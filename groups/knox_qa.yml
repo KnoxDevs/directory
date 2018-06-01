@@ -1,5 +1,5 @@
 name: Knox QA  #Name of organization
-image: assets/images/groups/knox_qa.jpg #Image url you want displayed
+image: /assets/images/groups/knox_qa.jpg #Image url you want displayed
 online: #Online links
     website: https://knoxqa.com/
     github: 

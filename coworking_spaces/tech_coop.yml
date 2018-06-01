@@ -1,5 +1,5 @@
 name: Technology Cooperative #Name of organization
-image: assets/images/coworking/tech_coop.png #Image url you want displayed
+image: /assets/images/coworking/tech_coop.png #Image url you want displayed
 online: #Online links
     website: http://techco.org/co-working-space/
     twitter: TechCoop 

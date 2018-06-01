@@ -1,5 +1,5 @@
 name: Knoxville Entrepreneur Center #Name of organization
-image: assets/images/groups/kec.png #Image url you want displayed
+image: /assets/images/organizations/kec.png #Image url you want displayed
 online: #Online links
     website: knoxec.com
     twitter: Knoxstartshere 

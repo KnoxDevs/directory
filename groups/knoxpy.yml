@@ -1,5 +1,5 @@
 name: KnoxPy #Name of organization
-image: assets/images/groups/knoxpy.jpg #Image you want displayed
+image: /assets/images/groups/knoxpy.jpg #Image you want displayed
 online: #Online links
     website: http://knoxpy.org
     github: knoxpy
