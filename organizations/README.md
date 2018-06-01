@@ -17,7 +17,7 @@ online: #Online links
     website: 
     twitter:  
 location: # Organization Location
-    name: 
+    address: 
     gmap:  # google map short url
 blurb: > # if you use 1 line, use a `>`, if you multiple lines, use a `|` here, then ensure that you indent! good yaml syntax.
     example text
