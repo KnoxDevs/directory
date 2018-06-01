@@ -1,4 +1,4 @@
-# Template for groups
+# Template for Groups
 
 Below is a template you can use to add your group to this list. Note that the file must be a YML file. We have chosen `.yml` as the extension, but `.yaml` will work as well. We probably won't accept your pull request if you do that tho ;)
 
