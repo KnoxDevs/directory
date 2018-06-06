@@ -1,7 +1,7 @@
 name: Adam Byram #Your name, silly.
-image: #Boom! headshot
+image: https://adambyram.com/wp-content/uploads/2015/05/AdamByram-Square.jpg #Boom! headshot
 online: #Online links
-    website: adambyram.com
+    website: https://adambyram.com
     feed: /feed/ #suburl of your website
     twitter: adambyram
 blurb: |
