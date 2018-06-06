@@ -1,9 +1,15 @@
 name: Cody Lambert #Your name, silly.
+
+description: >
+    Technical leader with a broad range of experience and a passion for working with smart
+    people to make good software. Co-founder of KnoxDevs.
+
 group: KnoxDevs
+
 image: /assets/images/organizers/cody_lambert.jpg #Boom! headshot
+
 online: #Online links
     website: codylambert.com
+
+social:
     twitter: codeasice
-date_updated: 2018-04-18 #date you updated this information (YYYY-MM-DD), only Month, Year will be shown.
-blurb: >
-    Technical leader with a broad range of experience and a passion for working with smart people to make good software. Co-founder of KnoxDevs.
