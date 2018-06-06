@@ -1,12 +1,19 @@
 name: DevOps Knoxville  #Name of organization
+
 image: #Image url you want displayed
+
+description: #A description (~ 50 words) about your organization goes here!
+
 online: #Online links
     website: 
+
+social:
     github: 
     twitter: 
-    meetup: 
+    meetup:
+ 
 location: # Meetup Location
     name: 
-    gmap:  # google map short url
+    address:
+
 slack_channel: #slack channel most associated with your group.
-blurb: #A blurb (~ 50 words) about your organization goes here!

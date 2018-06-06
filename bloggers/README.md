@@ -6,16 +6,22 @@ Info we're looking for. You can leave any field but name and group blank if you 
 
 - **Name**
 - Image
-- Online links, website and/or twitter
-- Blurb, capped at 50 words (forreal)
+- Description, capped at 50 words (forreal)
+- Online links, e.g., website
+- Social links: e.g., twitter
 
 ````yaml
 name: #Your name, silly.
+
 image: #Boom! headshot. Upload into assets/images/bloggers
+
+description: > # if you use 1 line, use a `>`, if you multiple lines, use a `|` here, then ensure that you indent! good yaml syntax.
+    example text
+
 online: #Online links
     website: #url
     feed: #suburl of your website
+
+social:
     twitter:  #username
-blurb: > # if you use 1 line, use a `>`, if you multiple lines, use a `|` here, then ensure that you indent! good yaml syntax.
-    example text
 ````

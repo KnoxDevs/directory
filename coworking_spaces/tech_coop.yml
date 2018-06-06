@@ -1,10 +1,17 @@
 name: Technology Cooperative #Name of organization
+
 image: /assets/images/coworking/tech_coop.png #Image url you want displayed
+
+description: >
+    The Technology Cooperative was founded to create a technology-focused community that will provide computer-related technology access and awareness. It also provides co-working space most weekdays until 6pm.
+
 online: #Online links
     website: http://techco.org/co-working-space/
+
+social: #Social Links
     twitter: TechCoop 
+
 location: # Company Location
     address: 13 Emory Pl, Knoxville, TN 37917
-    gmap: pbs2STaNFxu  # google map short url after goo.gl/maps
-blurb: >
-    The Technology Cooperative was founded to create a technology-focused community that will provide computer-related technology access and awareness. It also provides co-working space most weekdays until 6pm.
+    latitude: 35.9747
+    longitude: -83.922917

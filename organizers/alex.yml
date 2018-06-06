@@ -1,12 +1,20 @@
 name: Alex Pawlowski #Your name, silly.
+
+description: >
+    Alex Pawlowski is a PhD Student at the University of Tennessee, doing research in metal
+    additive manufacturing at Oak Ridge National Laboratory. He is the Secretary for KnoxDevs,
+    and handles minutes for board meetings, and the upkeep of this very website.
+
 group:
     - KnoxDevs
     - Knox3dp
     - KnoxData
+
 image: /assets/images/organizers/alex_pawlowski.jpg #Boom! headshot
+
 online: #Online links
     website: alexpawlowski.me
+
+social:
     twitter: apawlows 
-date_updated: 2018-04-18 #date you updated this information (YYYY-MM-DD), only Month, Year will be shown.
-blurb: >
-    Alex Pawlowski is a PhD Student at the University of Tennessee, doing research in metal additive manufacturing at Oak Ridge National Laboratory. He is the Secretary for KnoxDevs, and handle minutes for board meetings, and the upkeep of this very website.
+    github: alexpawlowski
