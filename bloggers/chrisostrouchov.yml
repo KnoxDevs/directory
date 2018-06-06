@@ -1,0 +1,12 @@
+name: Chris Ostrouchov
+image: https://chrisostrouchov.com/images/chris-xsmall.jpg
+online:
+  website: chrisostrouchov.com
+  feed: /post/
+  twitter: costrouc
+blurb: |
+  Hi I am Chris Ostrouchov and currently am a PhD candidate at the
+  University of Tennessee. I am passionate about scientific computing
+  and developing software that enables scientists. You will find on my
+  blog that enjoy talking about Python, numerical computing, data
+  science, and some devops with Kubernetes, Docker, and Rook.
