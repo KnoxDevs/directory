@@ -1,6 +1,6 @@
 name: PyTennessee
 
-image: assets/images/conferences/pytennessee.png
+image: /assets/images/conferences/pytennessee.png
 
 description: |
   PyTennessee is a regional Python conference being held in the spring
