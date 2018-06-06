@@ -24,4 +24,5 @@ online: #Online links
 
 social:
     twitter:  #username
+    github:   #username
 ````

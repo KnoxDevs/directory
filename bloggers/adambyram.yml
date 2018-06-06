@@ -1,19 +1,19 @@
 name: Adam Byram #Your name, silly.
-<<<<<<< HEAD
-image: https://adambyram.com/wp-content/uploads/2015/05/AdamByram-Square.jpg #Boom! headshot
-=======
 
-image: #Boom! headshot
+image: /assets/images/bloggers/adambyram.jpg #Boom! headshot
 
->>>>>>> f9a5e810f9c1c8807988296d521088f3e85d75bd
+description: |
+    My name is Adam Byram. I’m a software developer in Oak Ridge, TN.
+    I’ve been developing software professionally for over twelve
+    years. I’ve worked for huge corporations on billion dollar brands,
+    on rocket ships at cutting edge startups, and many places in
+    between. I was also a board member/organizer for 2014 & 2015
+    CodeStock Conference.
+
 online: #Online links
     website: https://adambyram.com
     feed: /feed/ #suburl of your website
 
 social:
     twitter: adambyram
-    github:
-
-blurb: |
-    My name is Adam Byram. I’m a software developer in Oak Ridge, TN.
-    I’ve been developing software professionally for over twelve years. I’ve worked for huge corporations on billion dollar brands, on rocket ships at cutting edge startups, and many places in between. I was also a board member/organizer for 2014 & 2015 CodeStock Conference.
+    github: adambyram
