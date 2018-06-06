@@ -1,13 +1,27 @@
 name: KnoxData #Name of organization
+
 image: /assets/images/groups/knoxdata.svg
+
+description: >
+     __KnoxData__ is for anyone interested in the multidisciplinary field of data science.
+     The group is open to novices and experts from the business and academic worlds that have
+     an interest in anything data science-y.
+     
 online: #Online links
     website: https://knoxdata.org
+
+social: #Social links
     github: knoxdata
     twitter: knoxdatasci
     meetup: knoxdata
+
 location: # Meetup Location
     name: The Technology Cooperative
-    gmap: pMBTD5bcBSp # google map short url
+    address: 13 Emory Place, Knoxville, TN 37917
+
 slack_channel: data
-blurb: >
-     __KnoxData__ is for anyone interested in the multidisciplinary field of data science. The group is open to novices and experts from the business and academic worlds that have an interest in anything data science-y.
+
+tags:
+    - data analysis
+    - machine learning
+    - visualization

@@ -1,9 +1,16 @@
 name: Adrian Carr #Your name, silly.
+
+description: >
+    Adrian is a software developer by trade, with a strong interest in startups, and
+    lean/agile processes. From the start, his specialty has been bridging the gap between
+    business ideas and implementing those ideas through technology and software.
+
 group: KnoxDevs
+
 image: /assets/images/organizers/adrian_carr.jpg #Boom! headshot
+
 online: #Online links
     website: adriancarr.com
+
+social:
     twitter:
-date_updated: 2018-04-18 #date you updated this information (YYYY-MM-DD), only Month, Year will be shown.
-blurb: >
-    Adrian is a software developer by trade, with a strong interest in startups, and lean/agile processes. From the start, his specialty has been bridging the gap between business ideas and implementing those ideas through technology and software.

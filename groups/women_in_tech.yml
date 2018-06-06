@@ -1,12 +1,19 @@
 name: Knoxville Women in Technology  #Name of organization
+
 image: #Image url you want displayed
+
+description: #A description (~ 50 words) about your organization goes here!
+
 online: #Online links
     website: 
+
+social:
     github: 
     twitter: 
     meetup: Knoxville-Women-in-Technology
+ 
 location: # Meetup Location
     name: 
-    gmap:  # google map short url
-slack_channel: #slack channel most associated with your group.
-blurb: #A blurb (~ 50 words) about your organization goes here!
+    address:
+
+slack_channel: all-the-nerdy-ladies #slack channel most associated with your group.

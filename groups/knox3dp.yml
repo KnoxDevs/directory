@@ -1,13 +1,22 @@
 name: knox3dp  #Name of organization
+
 image: /assets/images/groups/knox3dp.svg #Image url you want displayed
+
+description: > #A description (~ 50 words) about your organization goes here!
+    Knox3dp is a local 3d printing and CAD group that serves interests in the Knoxville area
+    related to 3d printing while providing a space for those who’d like to learn more about
+    CAD (as an Autodesk Fusion 360 Meetup).
+
 online: #Online links
     website: http://knox3dp.org
+
+social:
     github: knox3dp
     twitter: knox3dp
     meetup: knox3dp
+
 location: # Meetup Location
     name: Knox Makers
-    gmap:  # google map short url
-slack_channel: 3dprinting #slack channel most associated with your group.
-blurb: > #A blurb (~ 50 words) about your organization goes here!
-    Knox3dp is a local 3d printing and CAD group that  serves interests in the Knoxville area related to 3d printing while providing a space for those who’d like to learn more about CAD (as an Autodesk Fusion 360 Meetup). 
+    address: 116 Childress St SW Knoxville, TN 37920
+
+slack_channel: 3dprinting #slack channel most associated with your group. 
