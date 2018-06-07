@@ -1,0 +1,20 @@
+name: PyTennessee
+
+image: /assets/images/conferences/pytennessee.png
+
+description: |
+  PyTennessee is a regional Python conference being held in the spring
+  each year. Come join fellow software developers, data scientists,
+  hobbyists and people interested in learning more about the wonderful
+  world of the Python programming language.
+
+online:
+  website: https://www.pytennessee.org/
+
+social:
+  twitter: PyTennessee
+
+location:
+  name: Nashville School of Law
+  city_state: Nashville, TN
+  address: 4013 Armory Oaks Dr, Nashville, TN 37204
