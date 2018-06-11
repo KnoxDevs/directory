@@ -1,19 +1,19 @@
-name: KnoxJava  #Name of organization
+name: KnoxJava
 
-image: #Image url you want displayed
+image: https://knoxjava.org/images/sunsphere-duke-trans.png
 
-description: #A description (~ 50 words) about your organization goes here!
+description: A group for Java/JVM Developers in the Knoxville, Tennessee area to collaborate, learn from one another, and have fun.
 
-online: #Online links
-    website: 
+online: 
+    website: https://knoxjava.org/
 
 social:
-    github: 
-    twitter: 
-    meetup:
+    github: https://github.com/knoxjava
+    twitter: https://twitter.com/knoxjava
+    meetup: https://www.meetup.com/KnoxJava/
  
 location: # Meetup Location
-    name: 
-    address:
+    name: The Technology Cooperative
+    address: 13 Emory Pl. Knoxville, TN 37917
 
-slack_channel: #slack channel most associated with your group.
+slack_channel: java
