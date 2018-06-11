@@ -12,7 +12,7 @@ description: |
 
 online: #Online links
     website: https://adambyram.com
-    feed: /feed/ #suburl of your website
+    feed: https://adambyram.com/feed/
 
 social:
     twitter: adambyram

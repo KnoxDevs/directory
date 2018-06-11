@@ -7,8 +7,12 @@ Info we're looking for. You can leave any field but name and group blank if you 
 - **Name**
 - Image
 - Description, capped at 50 words (forreal)
-- Online links, e.g., website
+- Online links
+    - **website**
+    - **feed**
 - Social links: e.g., twitter
+
+Include a full url to your feed of your blog. This increases the flexibility (to have feeds generated through external services) at the expense of larger bits carried in each yml file ;).
 
 ````yaml
 name: #Your name, silly.
@@ -20,7 +24,7 @@ description: > # if you use 1 line, use a `>`, if you multiple lines, use a `|` 
 
 online: #Online links
     website: #url
-    feed: #suburl of your website
+    feed: #whole url
 
 social:
     twitter:  #username
