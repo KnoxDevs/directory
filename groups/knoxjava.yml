@@ -8,9 +8,9 @@ online:
     website: https://knoxjava.org/
 
 social:
-    github: https://github.com/knoxjava
-    twitter: https://twitter.com/knoxjava
-    meetup: https://www.meetup.com/KnoxJava/
+    github: KnoxJava
+    twitter: KnoxJava
+    meetup: KnoxJava
  
 location: # Meetup Location
     name: The Technology Cooperative
