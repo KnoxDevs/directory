@@ -1,22 +1,22 @@
-name: Knox QA  #Name of organization
+name: KnoxQA  #Name of organization
 
 image: /assets/images/groups/knox_qa.jpg #Image url you want displayed
 
 description: > # A description (~ 50 words) about your organization goes here!
-    This is a group for software quality assurance professionals that are interested in
-    socializing / networking, becoming a more knowledgeable and marketable expert, and having
-    a good time in the process. 
+KnoxQA is a group of software quality assurance professionals looking to expand their
+knowledge through monthly networking, speaker sessions, and social events.
+Anyone who is interested in learning about the world of testing is invited!
 
 online: #Online links
-    website: https://knoxqa.com/
+   website: https://knoxqa.com/
 
 social:
-    github: 
-    twitter: 
-    meetup: Knox-QA-Meetup
+   github:
+   twitter: KnoxvilleQA
+   meetup: Knox-QA-Meetup
 
 location: # Meetup Location
-    name: 
-    address:
+   name: Changes Monthly, See Slack or Meetup Page
+   address:
 
-slack_channel: qa #slack channel most associated with your group.
+slack_channel: # qa #slack channel most associated with your group.
