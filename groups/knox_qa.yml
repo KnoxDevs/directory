@@ -19,4 +19,4 @@ location: # Meetup Location
    name: Changes Monthly, See Slack or Meetup Page
    address:
 
-slack_channel: # qa #slack channel most associated with your group.
+slack_channel: qa #slack channel most associated with your group.
