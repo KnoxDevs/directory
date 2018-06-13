@@ -9,9 +9,9 @@ online: #Online links
     website: https://www.meetup.com/FunctionalKnox/
 
 social:
-    github: https://github.com/FunctionalKnox
+    github: FunctionalKnox
     twitter: FunctionalKnox
-    meetup: https://www.meetup.com/FunctionalKnox/
+    meetup: FunctionalKnox
  
 location: # Meetup Location
     name: TEKSystems
