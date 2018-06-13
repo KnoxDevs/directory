@@ -1,0 +1,22 @@
+name: Cameron Presley #Your name, silly.
+
+description: >
+    Cameron Presley is a software engineer, boardgamer, and Microsoft MVP living in Oak Ridge, TN
+    currently employed as an architect for Pilot Flying J where he works as a 
+    professional problem solver.
+
+    When he's not slinging code as part of his day job, Cameron can be found organizing
+    content for the @FunctionalKnox user group, organizing Lambda Squared, and mentoring
+    developers through Code Kickoff.
+
+group:
+    - FunctionalKnox
+
+image: /assets/images/organizers/cameron_presley.jpg #Boom! headshot
+
+online: #Online links
+    website: http://blog.thesoftwarementor.com
+
+social:
+    twitter: pcameronpresley
+    github: cameronpresley
