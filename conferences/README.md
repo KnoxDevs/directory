@@ -21,15 +21,12 @@ Below is a template you can use to add your conference to this list. Note that t
 Info we're looking for. You can leave any field but name and location blank if you wish.
 
 - **Name**
-- Image
 - Description, capped at 50 words (forreal)
 - Online links, website and/or twitter
 - **Location**
 
 ````yaml
 name: #Conference Name
-
-image: #Logo Upload into assets/images/conferences
 
 description: > # if you use 1 line, use a `>`, if you multiple lines, use a `|` here, then ensure that you indent! good yaml syntax.
     example text

@@ -16,3 +16,5 @@ Directory
 ├── organizations
 ├── organizers
 ```
+
+If you would like a photo or logo to accompany your submission (e.g., blogger, group, conference, etc.), head over to the [repo](#) where we are storing logos and photos. There will be a format to the file naming that will be explained there (will match your submission's name).

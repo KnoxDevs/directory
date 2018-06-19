@@ -1,7 +1,5 @@
 name: Knox.NET  #Name of organization
 
-image: /assets/images/groups/knoxdotnet.jpg #Image url you want displayed
-
 description: > # A description (~ 50 words) about your organization goes here!
     Knoxville area .NET user group focusing on .NET related technology.
     We are also part of the .NET Foundation. We meet every 3rd Monday on the month.

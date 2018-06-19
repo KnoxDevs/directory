@@ -1,7 +1,5 @@
 name: FunctionalKnox  #Name of organization
 
-image: /assets/images/groups/functionalknox.png #Image url you want displayed
-
 description: The Knoxville Functional Programmers group. Focused on collaborative learning of FP and FP techniques
  #A description (~ 50 words) about your organization goes here!
 

@@ -21,16 +21,13 @@ Below is a template you can use to add your event space to this list via a Pull 
 Info we're looking for. You can leave any field but name and location blank if you wish.
 
 - **Name**
-- Image
-- Description, capped at 50 words (forreal)
+- Description (please keep to 50 characters or so)
 - Online links, e.g., website
 - Social links: e.g., twitter
 - **Location**
 
 ````yaml
-name: #Conference Name
-
-image: #Logo Upload into assets/images/event_spaces
+name: #Event Space Name
 
 online: #Online links
     website: 
@@ -38,7 +35,7 @@ online: #Online links
 social:
     twitter:  
 
-location: # Conference Location
+location: # Event Space Location
     address:
     latitude:
     longitude:

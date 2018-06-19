@@ -6,19 +6,23 @@ Info we're looking for. You can leave any field but name and group blank if you 
 
 - **Name**
 - **Group(s)** that you organize
-- Image
 - Online links, website and/or twitter
 - Blurb, capped at 50 words (forreal)
 
 ````yaml
-name: #Organization Name
-image: #Logo Upload into assets/images/organizations
+name: #Name of organization
+
+description: > # if you use 1 line, use a `>`, if you multiple lines, use a `|` here, then ensure that you indent! good yaml syntax.
+    example text
+
 online: #Online links
     website: 
+
+social: #Social links
     twitter:  
+
 location: # Organization Location
     address: 
-    gmap:  # google map short url
-blurb: > # if you use 1 line, use a `>`, if you multiple lines, use a `|` here, then ensure that you indent! good yaml syntax.
-    example text
+    latitude:
+    longitude:
 ````

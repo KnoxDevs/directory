@@ -1,7 +1,5 @@
 name: CodeStock #Name of conference
 
-image: /assets/images/conferences/codestock_black.png #Image url you want displayed
-
 description: >
     CodeStock is a two day event for technology and information exchange. Created by the community, for the community – this is not an industry trade show pushing the latest in marketing as technology, but a gathering of working professionals sharing knowledge and experience.
 

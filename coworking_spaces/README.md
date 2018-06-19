@@ -21,16 +21,13 @@ Below is a template you can use to add your coworking space to this list. Note t
 Info we're looking for. You can leave any field but name and location blank if you wish.
 
 - **Name**
-- Image
-- Description, capped at 50 words (forreal)
+- Description (please keep to 50 characters or so)
 - Online links, e.g., website
 - Social links: e.g., twitter
 - **Location**
 
 ````yaml
 name: #Conference Name
-
-image: #Logo Upload into assets/images/coworking_spaces
 
 description: > # if you use 1 line, use a `>`, if you multiple lines, use a `|` here, then ensure that you indent! good yaml syntax.
     example text
