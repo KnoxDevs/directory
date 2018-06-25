@@ -1,7 +1,9 @@
 name: Knoxville Women in Technology  #Name of organization
 
-description: #A description (~ 50 words) about your organization goes here!
-
+description: > #A description (~ 50 words) about your organization goes here!
+    Are you (or do you know) a Knoxville woman working in technology?
+    We have a social meetup group that meets for dinner once a month.
+    Both men and women are welcome to attend. :)
 online: #Online links
     website: 
 
@@ -11,7 +13,7 @@ social:
     meetup: Knoxville-Women-in-Technology
  
 location: # Meetup Location
-    name: 
+    name: Changes Monthly, See Slack or Meetup Page
     address:
 
 slack_channel: all-the-nerdy-ladies #slack channel most associated with your group.

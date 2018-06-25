@@ -1,17 +1,17 @@
 name: DC 865  #Name of organization
 
-description: #A description (~ 50 words) about your organization goes here!
-
+description: > #A description (~ 50 words) about your organization goes here!
+    This group is for hackers, sysadmins, developers, students, and anyone else interested in information security. This is a great place to get started in the community! 
 online: #Online links
-    website: 
+    website: http://www.dc865.org/
 
 social:
-    github: 
+    github: dc865
     twitter: 
-    meetup:
+    meetup: defcon865
  
 location: # Meetup Location
-    name: 
-    address:
+    name: Knox Makers
+    address: 116 Childress St SW Knoxville, TN 37920
 
 slack_channel: #slack channel most associated with your group.

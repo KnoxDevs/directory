@@ -1,17 +1,16 @@
-name: Knox UX  #Name of organization
+name: Knox_UX  #Name of organization
 
-description: #A description (~ 50 words) about your organization goes here!
-
-online: #Online links
-    website: 
+description: > #A description (~ 50 words) about your organization goes here!
+    Knox UX is for anyone interested in creating great user experiences.
+    We do it through bi-monthly meetings with an interesting presentation followed by a social. Feel free to come, whether you're a UX professional or if you'd like just have a look at what happens in UX today.
 
 social:
-    github: 
-    twitter: 
-    meetup:
+    github: KnoxUX
+    twitter: knox_ux
+    meetup: Knox-UX
  
 location: # Meetup Location
-    name: 
-    address:
+    name: Knoxville Entrepreneur Center
+    address: 17 Market Square Suite 101, Knoxville, TN 37902
 
-slack_channel: #slack channel most associated with your group.
+slack_channel: ux #slack channel most associated with your group.

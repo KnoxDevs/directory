@@ -1,17 +1,17 @@
 name: DevOps Knoxville  #Name of organization
 
-description: #A description (~ 50 words) about your organization goes here!
-
+description: > #A description (~ 50 words) about your organization goes here!
+    A group to explore and leverage technology around the intersection of development and operations.
 online: #Online links
     website: 
 
 social:
     github: 
     twitter: 
-    meetup:
+    meetup: DevOps-Knoxville
  
 location: # Meetup Location
-    name: 
-    address:
+    name: TEKSystems
+    address: 408 N Cedar Bluff Rd Suite 400, Knoxville, TN 37923
 
-slack_channel: #slack channel most associated with your group.
+slack_channel: devops #slack channel most associated with your group.

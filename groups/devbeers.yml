@@ -1,17 +1,18 @@
 name: DevBeers  #Name of organization
 
-description: #A description (~ 50 words) about your organization goes here!
-
+description: > #A description (~ 50 words) about your organization goes here!
+    Knoxville Developer Beers is a polyglot meetup for developers who like beer. We meet at 7:00pm every other Thursday at Casual Pint Bearden.
+    
 online: #Online links
-    website: 
+    website: http://devbeers.com/
 
 social:
     github: 
-    twitter: 
+    twitter: knoxdevbeers
     meetup:
  
 location: # Meetup Location
-    name: 
-    address:
+    name: The Casual Pint Bearden
+    address: 234 Brookview Centre Way, Knoxville, TN 37919
 
 slack_channel: #slack channel most associated with your group.

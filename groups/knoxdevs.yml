@@ -1,0 +1,17 @@
+name: KnoxDevs Biweekly Lunch #Name of organization
+
+description: > #A description (~ 50 words) about your organization goes here!
+    In addition to Quarterlies and this website, we host bi-weekly casual lunches on Thursdays at Earth Fare in Turkey Creek!
+online: #Online links
+    website: https://www.knoxdevs.org/
+
+social:
+    github: knoxdevs
+    twitter: knoxdevs
+    meetup: knoxdevs
+ 
+location: # Meetup Location
+    name: Earth Fare Turkey Creek
+    address: 10903 Parkside Dr, Knoxville, TN 37934
+
+slack_channel: lunch #slack channel most associated with your group.
