@@ -1,17 +1,15 @@
 name: Knoxville Women in Technology  #Name of organization
 
 description: > #A description (~ 50 words) about your organization goes here!
-    Are you (or do you know) a Knoxville woman working in technology?
-    We have a social meetup group that meets for dinner once a month.
-    Both men and women are welcome to attend. :)
+  Networking group for women and non-binary folks working in or interested in technology.
 online: #Online links
-    website: 
+    website: https://www.meetup.com/Knoxville-Women-in-Technology/
 
 social:
-    github: 
-    twitter: 
+    github:
+    twitter:
     meetup: Knoxville-Women-in-Technology
- 
+
 location: # Meetup Location
     name: Changes Monthly, See Slack or Meetup Page
     address:
