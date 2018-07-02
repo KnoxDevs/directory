@@ -1,17 +1,15 @@
-name: Agile Knoxville  #Name of organization
+name: Agile Knoxville
 
-description: #A description (~ 50 words) about your organization goes here!
+description: > 
+    Agile Knoxville is a collective of people who want to learn from each other and participate in the process by sharing what they know about agile experiences and best practices. We share ideas, practice new techniques, and learn about Scrum, Kanban, retrospectives, user stories, demos and reviews, daily scrums/stand-ups, planning, and other topics relevant to Agile teams. During our meetups, we have talks, open discussions, games and exercises that help us make work more enjoyable, productive, and fulfilling.
 
-online: #Online links
-    website: 
+online:
+   website: http://www.agileknoxville.com/
 
 social:
-    github: 
-    twitter: 
-    meetup:
- 
-location: # Meetup Location
-    name: 
-    address:
+   meetup: Agile-Knoxville-Meetup
 
-slack_channel: #slack channel most associated with your group.
+location: 
+    name: Announced prior to each meetup; usually a bar in West Knoxville
+
+slack_channel: agile
