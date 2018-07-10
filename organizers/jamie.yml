@@ -2,10 +2,13 @@ name: Jamie Phillips
 
 description: 
     Jamie Phillips is a Software Engineer with over 11 years of experience. All that experience has been in .NET and related technologies. 
-    Over the last several years he has been focused on moving applications to the cloud.
-online:
-    website: http://www.phillipsj.net/
-    feed: https://www.phillipsj.net/feed.rss
+    Over the last several years he has been focused on moving applications to the cloud. 
+
+group:
+    - Knox.NET
+
+online: #Online links
+    website: https://www.phillipsj.net
 
 social:
     twitter: phillipsj73
