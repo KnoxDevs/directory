@@ -1,0 +1,15 @@
+name: Lambda Squared
+
+description: >
+    Lambda Squared is a single day, single track functional programming conference held in Knoxville, TN.
+
+online:
+    website: https://www.lambda-squared.com/
+
+social:
+    twitter: FunctionalKnox
+
+location:
+    name: The Square Room
+    city_state: Knoxville, TN
+    address: 4 Market Square
