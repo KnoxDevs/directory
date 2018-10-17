@@ -6,7 +6,8 @@ Info we're looking for. You can leave any field but name and group blank if you 
 
 - **Name**
 - **Group(s)** that you organize
-- Online links, website and/or twitter
+- Online links, website 
+- Social links, github, twitter, etc.
 - Blurb, capped at 50 words (forreal)
 
 ````yaml
@@ -19,7 +20,11 @@ group: # This can be singular or an array
 
 online: #Online links
     website: 
+    
+social:
     twitter:  
+    github:
+    LinkedIn:
 
 description: > # if you use 1 line, use a `>`, if you multiple lines, use a `|` here, then ensure that you indent! good yaml syntax.
     example text
