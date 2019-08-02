@@ -11,8 +11,7 @@ group:
     - LOPSA East TN
     - Knoxville AWS
 
-online: #Online links
+links: #Online links
     website: www.linkedin.com/in/andy-cowell/
-
-social:
+    github:
     twitter: Vt102Green

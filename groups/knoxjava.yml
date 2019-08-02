@@ -1,17 +1,19 @@
 name: KnoxJava
 
-description: A group for Java/JVM Developers in the Knoxville, Tennessee area to collaborate, learn from one another, and have fun.
+description: >
+    A group for Java/JVM Developers in the Knoxville, Tennessee area to collaborate, learn from one another, and have fun.
 
-online: 
+links: 
     website: https://knoxjava.org/
-
-social:
+    email:
     github: KnoxJava
     twitter: KnoxJava
     meetup: KnoxJava
  
 location: # Meetup Location
     name: The Technology Cooperative
-    address: 13 Emory Pl. Knoxville, TN 37917
+    address: 127 W Jackson Ave \#103 Knoxville, TN 37902 
+    latitude: 35.9698275
+    longitude: -83.9193424
 
 slack_channel: java

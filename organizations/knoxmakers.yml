@@ -5,10 +5,14 @@ description: >
     educators and entrepreneurs to work and play. KM is a technology and art collective
     dedicated to the promotion of creativity enabled and informed by science.
 
-online: #Online links
+links: #Online links
     website: https://knoxmakers.org 
+    github: 
+    twitter: 
+    facebook: 
 
 location: # Organization Location
+    name: KnoxMakers
     address: 116 Childress St SW Knoxville, TN 37920
     latitude:
     longitude:

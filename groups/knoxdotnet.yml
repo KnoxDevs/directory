@@ -4,10 +4,9 @@ description: > # A description (~ 50 words) about your organization goes here!
     Knoxville area .NET user group focusing on .NET related technology.
     We are also part of the .NET Foundation. We meet every 3rd Monday on the month.
 
-online: #Online links
-    website: https://www.meetup.com/Knox-NET/
-
-social:
+links: #Online links
+    website:
+    email:
     github: 
     twitter: knoxdotnet
     meetup: Knox-NET
@@ -15,5 +14,7 @@ social:
 location: # Meetup Location
     name: The Casual Pint Hardin Valley
     address: 10677 Hardin Valley Road Knoxville, TN
+    latitude:
+    longitude:
 
 slack_channel: dotnet #slack channel most associated with your group.

@@ -10,8 +10,7 @@ Directory
 ├── bloggers
 |   └── README.md # this is a template and explainer of how to add information to this dataset
 ├── conferences
-├── coworking_spaces
-├── event_spaces
+├── spaces
 ├── groups
 ├── organizations
 ├── organizers

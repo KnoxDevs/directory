@@ -3,10 +3,10 @@ name: Knoxville JS  #Name of organization
 description: > #A description (~ 50 words) about your organization goes here!
     A JavaScript user group in Knoxville, TN. All skill levels and interest levels are welcome. 
     This group aims to create community by facilitating monthly meet-ups and talks on all aspects of JavaScript including but not limited to: new user questions, teaching/learning, technical aspects, new libraries, culture, cool new projects, etc.
-online: #Online links
-    website: 
 
-social:
+links: #Online links
+    website:
+    email:
     github: KnoxvilleJS
     twitter: knoxville_js
     meetup: Knoxvillejs
@@ -14,5 +14,7 @@ social:
 location: # Meetup Location
     name: Knoxville Entrepreneur Center
     address: 17 Market Square Suite 101, Knoxville, TN 37902
+    latitude:
+    longitude:
 
 slack_channel: #slack channel most associated with your group.

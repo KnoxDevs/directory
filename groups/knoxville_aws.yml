@@ -3,16 +3,17 @@ name: Knoxville AWS  #Name of organization
 description: > # A description (~ 50 words) about your organization goes here!
    Are you passionate about cloud computing, especially with Amazon Web Services? Then this group is for you. Let's get together to talk about what's going on in our worlds.
 
-online: #Online links
+links: #Online links
    website:
-
-social:
+   email:
    github:
    twitter:
    meetup: Knoxville-Amazon-Web-Services-Meetup
 
 location: # Meetup Location
    name: Casual Pint Hardin Valley
-   address: 10677 Hardin Valley Rd, Knoxville, TN 37932
+   address: 10677 Hardin Valley Rd, Knoxville, TN 37932 
+   latitude:
+   longitude:
 
 slack_channel: aws #slack channel most associated with your group.

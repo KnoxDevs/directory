@@ -6,8 +6,7 @@ description: >
 group: 
     - Knoxville Women in Technology
 
-online: #Online links
+links: #Online links
     website: https://www.linkedin.com/in/arlenerose
-
-social:
+    github:
     twitter: WhimSQL

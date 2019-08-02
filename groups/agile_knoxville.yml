@@ -6,13 +6,17 @@ description: >
     discussions, games and exercises that help us make work more enjoyable, productive, and 
     fulfilling.
 
-online:
+links:
    website: http://www.agileknoxville.com/
-
-social:
+   email:
+   github:
+   twitter:
    meetup: Agile-Knoxville-Meetup
 
 location: 
     name: Announced prior to each meetup; usually a bar in West Knoxville
+    address:
+    latitude:
+    longitude:
 
 slack_channel: agile

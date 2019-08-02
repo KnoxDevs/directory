@@ -4,8 +4,7 @@ description: >
     KnoxJava Organizer. Software Engineer, Technologist, Pepper Lover, and Apache NetBeans (Incubating) Contributor
 group: KnoxJava
 
-online: #Online links
+links: #Online links
     website: https://www.wadechandler.com/
-
-social:
+    github:
     twitter: wadechandler 

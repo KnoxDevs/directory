@@ -5,21 +5,17 @@ description: >
      The group is open to novices and experts from the business and academic worlds that have
      an interest in anything data science-y.
      
-online: #Online links
+links: #Online links
     website: https://knoxdata.org
-
-social: #Social links
+    email:
     github: knoxdata
     twitter: knoxdatasci
     meetup: knoxdata
 
 location: # Meetup Location
     name: The Technology Cooperative
-    address: 13 Emory Place, Knoxville, TN 37917
+    address: 127 W Jackson Ave \#103 Knoxville, TN 37902 
+    latitude: 35.9698275
+    longitude: -83.9193424
 
 slack_channel: data
-
-tags:
-    - data analysis
-    - machine learning
-    - visualization

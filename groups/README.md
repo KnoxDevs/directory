@@ -46,4 +46,22 @@ location: # Group Meeting Location
     address: 
 
 slack_channel: #the slack channel most associated with your group!
+name:  #Name of group
+
+description: > #A description (~ 50 words) about your group goes here!
+
+links: #Online links
+    website:
+    email:
+    github: #github username
+    twitter: # twitter username
+    meetup: # this is the meetup url after the meetup.com/
+ 
+location: # Group Meeting Location
+    name: 
+    address: 
+    latitude:
+    longitude:
+
+slack_channel: #slack channel most associated with your group.
 ````

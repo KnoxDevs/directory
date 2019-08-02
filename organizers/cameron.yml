@@ -12,9 +12,7 @@ description: >
 group:
     - FunctionalKnox
 
-online: #Online links
+links: #Online links
     website: http://blog.thesoftwarementor.com
-
-social:
-    twitter: pcameronpresley
     github: cameronpresley
+    twitter: pcameronpresley
