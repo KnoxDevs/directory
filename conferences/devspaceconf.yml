@@ -1,0 +1,13 @@
+name: DevSpace
+
+description: >
+    DevSpace is an annual developer’s conference that takes place in Huntsville, Alabama. Fueled by extensive space and missile research and a vibrant, emerging start-up culture, Huntsville is a market poised and ready to burst onto the national stage.
+
+links:
+    website: https://www.devspaceconf.com/
+    twitter: devspaceconf
+
+location:
+    name: Von Braun Center
+    address: 700 Monroe Street, Huntsville, AL 35801 
+    city_state: Huntsville, AL 
