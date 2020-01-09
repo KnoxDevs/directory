@@ -1,18 +1,24 @@
 name: LOPSA East TN  #Name of organization
 
-description: #A description (~ 50 words) about your organization goes here!
+description: > #A description (~ 50 words) about your organization goes here!
+    LOPSA-ETENN is a local chapter of LOPSA-- League of Professional System Administrators. 
+    But we're not just limited to sysadmins. We meet monthly to hear from local speakers, 
+    and get to know fellow IT workers. You do not have to be a member of LOPSA to come to 
+    the meetings, but it is encouraged that you join. We talk about Linux, Windows, network 
+    engineering, security, databases, software development, dev/ops --every facet of IT. 
+    If you work in IT, you will love it here.
 
 links: #Online links
-    website:
+    website: http://web.lopsaetenn.org/
     email:
     github:
-    twitter:
-    meetup:
+    twitter: lopsaetenn
+    meetup: LOPSA-ETENN
  
 location: # Meetup Location
-    name: 
-    address: 
-    latitude:
-    longitude:
+    name: TEK Systems
+    address: 408 N Cedar Bluff Rd, Suite 400, Knoxville, TN
+    latitude: 35.923016
+    longitude: -84.091774
 
-slack_channel: #slack channel most associated with your group.
+slack_channel: lopsa-etenn #slack channel most associated with your group.

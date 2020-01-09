@@ -11,9 +11,9 @@ links: #Online links
     meetup: DevOps-Knoxville
  
 location: # Meetup Location
-    name: TEKSystems
-    address: 408 N Cedar Bluff Rd Suite 400, Knoxville, TN 37923
-    latitude:
-    longitude:
+    name: Knoxville Entrepreneur Center
+    address: 17 Market Square Suite 101, Knoxville, TN 37902
+    latitude: 35.9652068
+    longitude: -83.9220525
 
 slack_channel: devops #slack channel most associated with your group.

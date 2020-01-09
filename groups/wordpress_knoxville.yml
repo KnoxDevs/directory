@@ -1,7 +1,8 @@
 name: Wordpress Knoxville  #Name of organization
 
 description: > #A description (~ 50 words) about your organization goes here!
-    Meet up with fellow WordPress enthusiasts in Knoxville, Morristown, and the surrounding area, from developers and themers to beginner and advanced users.
+    Meet up with fellow WordPress enthusiasts in Knoxville, Morristown, and the 
+    surrounding area, from developers and themers to beginner and advanced users.
 
 links: #Online links
     website: 
@@ -11,9 +12,9 @@ links: #Online links
     meetup: wordpressknoxville
  
 location: # Meetup Location
-    name: Knox Makers
-    address: 116 Childress St SW Knoxville, TN 37920
-    latitude:
-    longitude:
+    name: Knoxville Entrepreneur Center
+    address: 17 Market Square Suite 101, Knoxville, TN 37902
+    latitude: 35.9652068
+    longitude: -83.9220525
 
-slack_channel: #slack channel most associated with your group.
+slack_channel: wordpress #slack channel most associated with your group.

@@ -11,7 +11,7 @@ links: #Online links
     email: info@knoxpy.org
     github: knoxpy
     twitter: knoxpytn
-    meetup: knoxpy
+    meetup:
 
 location: # Meetup Location
     name: The Technology Cooperative
