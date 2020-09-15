@@ -6,15 +6,15 @@ description: > # A description (~ 50 words) about your organization goes here!
    in our worlds.
 
 links: #Online links
-   website:
+   website: www.knoxaws.com
    email:
    github:
    twitter:
    meetup: Knoxville-Amazon-Web-Services-Meetup
 
 location: # Meetup Location
-   name: Casual Pint Hardin Valley
-   address: 10677 Hardin Valley Rd, Knoxville, TN 37932 
+   name: Socially Distant, Check on Meetup
+   address: 
    latitude:
    longitude:
 
