@@ -4,13 +4,14 @@ description: > #A description (~ 50 words) about your organization goes here!
     HackUTK is the resident computer security organization at the University of Tennessee, Knoxville.
     Security is our passion. We teach, compete, and push students forward in computer security.
 
-online: #Online links
+links: #Online links
     website: https://hackutk.com/
-
-social:
     github: hackutk
     twitter: hackutk
+    facebook:
  
 location: # Meetup Location
     name: Min Kao Electrical Engineering and Computer Science Building
     address: 1520 Middle Dr, Knoxville, TN 37996
+    latitude:
+    longitude:

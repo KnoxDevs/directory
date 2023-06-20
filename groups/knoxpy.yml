@@ -6,17 +6,17 @@ description: >
     users share how they use the language and help beginners get started. Meetings are very
     informal and open to everyone.
 
-online: #Online links
+links: #Online links
     website: http://knoxpy.org
     email: info@knoxpy.org
-
-social:
     github: knoxpy
     twitter: knoxpytn
-    meetup: knoxpy
+    meetup:
 
 location: # Meetup Location
     name: The Technology Cooperative
-    address: 13 Emory Pl, Knoxville, TN 37917
+    address: 127 W Jackson Ave \#103 Knoxville, TN 37902 
+    latitude: 35.9698275
+    longitude: -83.9193424
 
 slack_channel: python

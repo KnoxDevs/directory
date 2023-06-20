@@ -3,10 +3,9 @@ name: FunctionalKnox  #Name of organization
 description: The Knoxville Functional Programmers group. Focused on collaborative learning of FP and FP techniques
  #A description (~ 50 words) about your organization goes here!
 
-online: #Online links
+links: #Online links
     website: https://www.meetup.com/FunctionalKnox/
-
-social:
+    email:
     github: FunctionalKnox
     twitter: FunctionalKnox
     meetup: FunctionalKnox
@@ -14,5 +13,7 @@ social:
 location: # Meetup Location
     name: TEKSystems
     address: 408 N Cedar Bluff Rd Suite 400, Knoxville, TN 37923
+    latitude:
+    longitude:
 
 slack_channel: functional #slack channel most associated with your group.

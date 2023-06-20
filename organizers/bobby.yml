@@ -8,9 +8,7 @@ description: >
 
 group: Knox UX
 
-online:
+links:
     website: https://www.bshow.co/
-
-social:
-    twitter: bobbyshowalter
     github: orangedaisy
+    twitter: bobbyshowalter

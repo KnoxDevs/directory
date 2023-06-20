@@ -1,6 +1,6 @@
-# Coworking Spaces
+# Coworking and Event Spaces
 
-Do you know of an coworking space / or operate an coworking space that you would like to see represented on the KnoxDevs website? There are three primary ways, in descending preference, to get your coworking space added!
+Do you know of an coworking/event space / or operate an coworking/event space that you would like to see represented on the KnoxDevs website? There are three primary ways, in descending preference, to get your coworking space added!
 
 1) Send a Pull Request. (highly recommended!) 
 
@@ -32,13 +32,15 @@ name: #Conference Name
 description: > # if you use 1 line, use a `>`, if you multiple lines, use a `|` here, then ensure that you indent! good yaml syntax.
     example text
 
-online: #Online links
-    website: 
-
-social:
-    twitter:  
+links:
+    website: http://sample.com/
+    github:
+    twitter: 
+    facebook:
 
 location: # Conference Location
     name: 
     address:  # address
+    latitude: 
+    longitude: 
 ````

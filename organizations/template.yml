@@ -1,0 +1,16 @@
+name: #Name of organization
+
+description: > #A description (~ 50 words) about your organization goes here!
+    
+
+links: #Online links
+    website: 
+    github: 
+    twitter: 
+    facebook: 
+ 
+location: # Meetup Location
+    name: 
+    address:
+    latitude:
+    longitude:

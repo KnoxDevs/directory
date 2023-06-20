@@ -26,19 +26,16 @@ Info we're looking for. You can leave any field but name and location blank if y
 - **Location**
 
 ````yaml
-name: #Conference Name
+name: 
 
-description: > # if you use 1 line, use a `>`, if you multiple lines, use a `|` here, then ensure that you indent! good yaml syntax.
-    example text
+description: | #multiline
 
-online: #Online links
-    website: 
+links:
+  website: 
+  twitter: 
 
-social:
-    twitter:  
-
-location: # Conference Location
-    name: 
-    city_state:
-    address: 
+location:
+  name: 
+  address: 
+  city_state: 
 ````

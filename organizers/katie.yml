@@ -1,15 +1,13 @@
-name: Katie Cleveland #Your name, silly.
+name: Katie Young #Your name, silly.
 
 description: >
-
    Katie is a lead quality assurance analyst and business analyst. She created the KnoxQA meetup
    with the intention of bringing the Knoxville quality assurance community together to discuss
    their trials and triumphs in testing, and to drink a lot of good beer in the process.
 
 group: KnoxQA
 
-online: #Online links
-   website: https://www.linkedin.com/in/katiecleveland/
-
-social:
-   twitter: katiecleveland
+links: #Online links
+   website: www.linkedin.com/in/katiecleveland/
+   github:
+   twitter: knoxvilleqa

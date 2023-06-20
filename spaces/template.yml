@@ -1,0 +1,18 @@
+name: Insert Name #Leave all fields
+
+type: #list if co-working, event (list both as co-working, event)
+
+description: >
+    Example
+
+links:
+    website: http://sample.com/
+    github:
+    twitter: 
+    facebook:
+
+location:
+    name:
+    address: 
+    latitude: 
+    longitude: 

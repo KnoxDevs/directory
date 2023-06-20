@@ -6,6 +6,7 @@ description: >
 group:
   - Agile Knoxville
 
-social:
-  twitter: https://twitter.com/arashfarsi
-  LinkedIn: https://www.linkedin.com/in/arashfarsi/ (
+links:
+  website: https://www.linkedin.com/in/arashfarsi/
+  github:
+  twitter: arashfarsi

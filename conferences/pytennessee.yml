@@ -6,13 +6,11 @@ description: |
   hobbyists and people interested in learning more about the wonderful
   world of the Python programming language.
 
-online:
+links:
   website: https://www.pytennessee.org/
-
-social:
   twitter: PyTennessee
 
 location:
   name: Nashville School of Law
-  city_state: Nashville, TN
   address: 4013 Armory Oaks Dr, Nashville, TN 37204
+  city_state: Nashville, TN

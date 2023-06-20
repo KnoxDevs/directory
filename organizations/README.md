@@ -12,17 +12,18 @@ Info we're looking for. You can leave any field but name and group blank if you 
 ````yaml
 name: #Name of organization
 
-description: > # if you use 1 line, use a `>`, if you multiple lines, use a `|` here, then ensure that you indent! good yaml syntax.
-    example text
+description: > #A description (~ 50 words) about your organization goes here!
+    
 
-online: #Online links
+links: #Online links
     website: 
-
-social: #Social links
-    twitter:  
-
-location: # Organization Location
-    address: 
+    github: 
+    twitter: 
+    facebook: 
+ 
+location: # Meetup Location
+    name: 
+    address:
     latitude:
     longitude:
 ````

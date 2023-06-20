@@ -1,18 +1,16 @@
 name: BSides Knoxville #Name of conference
 
-online: #Online links
-    website: http://bsidesknoxville.com/
+description: |-
+    BSides Knoxville is a security conference in the spirit of Security BSides; our goals are simple:
+    - Provide a relaxed, comfortable environment.
+    - Present useful, interesting information.
+    - Help people connect with old friends and make new ones.
 
-social:
+links: #Online links
+    website: http://bsidesknoxville.com/
     twitter: bsidesknoxville
 
 location: # Conference Location
     name: Scruffy City Hall
     address: 32 Market Square, Knoxville, TN 37902
     city_state: Knoxville, TN
-
-description: |-
-    BSides Knoxville is a security conference in the spirit of Security BSides; our goals are simple:
-    - Provide a relaxed, comfortable environment.
-    - Present useful, interesting information.
-    - Help people connect with old friends and make new ones.

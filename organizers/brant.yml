@@ -4,8 +4,7 @@ description: >
     KnoxJava Organizer. Lead Software Engineer @DiscoveryIncTV
 group: KnoxJava
 
-online: #Online links
+links: #Online links
     website: 
-
-social:
+    github:
     twitter: tbrantb

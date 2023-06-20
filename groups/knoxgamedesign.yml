@@ -6,12 +6,17 @@ description: > #A description (~ 50 words) about your organization goes here!
     Meetings typically focus on exploring one aspect of game development in depth, 
     but we always make time for anyone who wants to show off a game project.
 
-online: #Online links
+links: #Online links
     website: http://www.knoxgamedesign.org
-
-social:
+    email:
+    github:
     twitter: KnoxGameDesign
+    meetup:
  
 location: # Meetup Location
     name: Google Hangouts
     address: See http://www.knoxgamedesign.org for link
+    latitude:
+    longitude:
+
+slack_channel: #slack channel most associated with your group.

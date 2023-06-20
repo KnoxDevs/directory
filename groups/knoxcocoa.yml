@@ -1,23 +1,19 @@
 name: Knoxville CocoaHeads
 
-online:
+description: >
+    CocoaHeads is a global community for discussing macOS, iOS, watchOS, tvOS, and the Swift programming language. Meetings in Knoxville are held on the last Monday of the month from 6:30-8:30pm at the Technology Cooperative.
+
+links:
     website: http://knoxcocoa.org
     email: info@knoxcocoa.org
-
-social:
     github: knoxcocoa
     twitter: knoxcocoa
-    meetup: knoxcocoa
+    meetup:
 
 location:
     name: The Technology Cooperative
-    address: 13 Emory Pl, Knoxville, TN 37917.
+    address: 127 W Jackson Ave \#103 Knoxville, TN 37902 
+    latitude: 35.9698275
+    longitude: -83.9193424
 
 slack_channel: swift
-
-description: CocoaHeads is a global community for discussing macOS, iOS, watchOS, tvOS, and the Swift programming language. Meetings in Knoxville are held on the last Monday of the month from 6:30-8:30pm at the Technology Cooperative.
-
-tags:
-  - ios
-  - macos
-  - swift

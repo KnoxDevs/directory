@@ -3,11 +3,11 @@ name: Knoxville Entrepreneur Center #Name of organization
 description: >
     Knoxville Entrepreneur Center is a business accelerator located in Market Square that serves as the front door for entrepreneurs in our region, and a resource for anyone looking to start or grow a business here.
 
-online: #Online links
+links: #Online links
     website: http://knoxec.com
-
-social: #Social links
+    github:
     twitter: Knoxstartshere 
+    facebook:
 
 location: # Organization Location
     address: 17 Market Square Suite 101, Knoxville, TN 37902

@@ -5,11 +5,9 @@ description: |
 
 online:
   website: https://www.southerndatascience.com
-
-social:
   twitter: southerndsc
 
 location:
   name: Renaissance Orlando at Sea World
-  city_state: Orlando, FL
   address: 6677 Sea Harbor Drive, Orlando, FL 32821
+  city_state: Orlando, FL
