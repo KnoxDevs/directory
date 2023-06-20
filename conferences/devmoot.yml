@@ -1,0 +1,13 @@
+name: Devmoot #Name of conference
+
+description: >
+    As part of Innov865 Week, Devmoot is a gathering of passionate technology professionals from around the region. The single day, one-track conference is dedicated to showcasing the latest trends, innovations, and breakthroughs in the ever-evolving field of software development. Whether you’re an experienced developer or just starting your programming journey, Devmoot offers a unique platform for learning, networking, and exploring the cutting-edge technologies shaping the future. Devmoot is produced and hosted by KnoxDevs, a grassroots 501c3 organization.
+
+links: #Online links
+    website: https://devmoot.com/
+    twitter: KnoxDevs
+
+location: # Conference Location
+    name: The Relix Variety Theater
+    address: 1208 North Central Street
+    city_state: Knoxville, TN
