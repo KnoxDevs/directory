@@ -1,0 +1,22 @@
+name: DevBeers-Downtown  #Name of organization
+
+description: > #A description (~ 50 words) about your organization goes here!
+  Knoxville Developer Beers is a polyglot meetup for developers who like beer. We meet at 7:00pm every other Tuesday
+  at Next Level Brewing Company. On the alternate Tuesdays meet us at DevBeers-West at Crafty Bastard Brewery West.
+  Check the #beer slack channel for updates on where we are!
+
+links: #Online links
+  website: http://devbeers.com/
+  email:
+  github:
+  twitter: knoxdevbeers
+  meetup:
+
+location: # Meetup Location
+  name: Next Level Brewing Company
+  address: 700 N Broadway, Knoxville, TN 37917
+  latitude:
+  longitude:
+
+
+slack_channel: beer #slack channel most associated with your group.
