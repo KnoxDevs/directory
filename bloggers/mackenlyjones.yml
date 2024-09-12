@@ -1,0 +1,13 @@
+name: Mackenly Jones
+
+description: |
+    Mackenly is a full stack software engineer and technology consultant. 
+    On his blog at crtv.dev he writes technical blog posts on topics ranging from programming theory to deep dives in fun projects.
+
+online: #Online links
+    website: https://crtv.dev/
+    feed: https://crtv.dev/rss/
+
+social:
+    twitter: mackenlyjones
+    github: mackenly
